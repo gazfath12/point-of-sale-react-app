@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "mixue boba ",
+    "descripsi": "mixue boba bersusu dan make cup",
+    "price": "20000",
+    "img": "./asets/pexels-chevanon-312418.jpg"
+  },
+  {
+    "id": 2,
+    "title": "mixue buble ",
+    "descripsi": "mixue boba bersusu dan make cup",
+    "price": "17000",
+    "img": "./asets/pexels-shameel-mukkath-3421394-11160113.jpg"
+  },
+  {
+    "id": 3,
+    "title": "mixue eskrim ",
+    "descripsi": "mixue boba bersusu dan make cup",
+    "price": "8000",
+    "img": "./asets/pexels-kumaran-556744-1309583.jpg"
+  },
+  {
+    "id": 4,
+    "title": "mixue orange ",
+    "descripsi": "mixue boba bersusu dan make cup",
+    "price": "13000",
+    "img": "./asets/pexels-lood-goosen-508841-1235706.jpg"
+  },
+  {
+    "id": 5,
+    "title": "mixue jelly ",
+    "descripsi": "mixue boba bersusu dan make cup",
+    "price": "10000",
+    "img": "./asets/pexels-taryn-elliott-4540356.jpg"
+  },
+  {
+    "id": 6,
+    "title": "mixue sundae ",
+    "descripsi": "mixue boba bersusu dan make cup",
+    "price": "30000",
+    "img": "./asets/pexels-valeriya-25389818.jpg"
+  }
+]
